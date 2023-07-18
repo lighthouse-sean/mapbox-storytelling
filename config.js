@@ -51,7 +51,7 @@ var config = {
                 center: [-82.64337, 27.77147],
                 zoom: 18,
                 pitch: 0,
-                bearing: 20
+                bearing: -20
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -73,7 +73,7 @@ var config = {
                 bearing: -60
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: false,
+            rotateAnimation: true,
             callback: '',
             onChapterEnter: [
                 // {
@@ -98,9 +98,9 @@ var config = {
             description: 'St Petes newest cocktail experience, Cocktail where you will get stiff drinks, hard liquor and raging good times.',
             location: {
                 center: [-82.66553, 27.77109],
-                zoom: 19.55,
+                zoom: 18.55,
                 pitch: 54.50,
-                bearing: 27.20
+                bearing: -27.20
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
@@ -125,7 +125,7 @@ var config = {
                 center: [-82.67052, 27.77116],
                 zoom: 20,
                 pitch: 61,
-                bearing: -44.80
+                bearing: 24.80
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
