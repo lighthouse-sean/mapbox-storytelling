@@ -118,9 +118,9 @@ var config = {
             id: 'the-garage',
             alignment: 'left',
             hidden: false,
-            title: 'The Garage',
+            title: 'Grand Central Garage',
             image: './images/garage.jpg',
-            description: 'Low-lit, no-frills gay bar with a festive, dark wood interior, plus beer, cocktails & karaoke.',
+            description: '<strong><a href="https://www.facebook.com/FukTheGarage">Grand Central Garage</a><br>2729 Central Ave Saint Petersburg, FL 33713</strong>,br>A dive bar to find St. Petes older crowd in the historic Kenwood area, locals end up here for a mellow good time. Enjoy everything from cold brews to karaoke, this is a no-frills hang out.',
             location: {
                 center: [-82.67052, 27.77116],
                 zoom: 20,
@@ -158,7 +158,7 @@ var config = {
             hidden: false,
             title: 'Southern Nights Tampa',
             image: './images/southern.jpg',
-            description: 'Copy these sections to add to your story.',
+            description: '<strong><a href="https://www.facebook.com/SouthernNightsTampa/">Southern Nights Tampa</a> <br> 1401 E 7th Ave, Tampa, FL, United States, 33605</strong><br>A rambunctious crowd enjoys cocktails, drag queens, go-go dancers, and renowned DJs. Southern Nights is the place to go to if you are looking for a rowdy, fun, dance and drink-filled night.',
             location: {
                 center: [-82.44403, 27.96016],
                 zoom: 19.42,
