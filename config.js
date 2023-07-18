@@ -73,7 +73,7 @@ var config = {
                 bearing: -60
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: false,
+            rotateAnimation: true,
             callback: '',
             onChapterEnter: [
                 // {
@@ -109,7 +109,7 @@ var config = {
                 //curve: 1, // change the speed at which it zooms out
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
@@ -126,25 +126,6 @@ var config = {
                 zoom: 20,
                 pitch: 61,
                 bearing: 24.80
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
-            id: 'ritz',
-            alignment: 'left',
-            hidden: false,
-            title: 'THE RITZ YBOR',
-            image: './images/ritz-ybor.jpg',
-            description: '<strong><a href="https://theritzybor.com/">The Ritz Ybor</a> <br/>1503 E 7th Ave, Tampa, FL 33605</strong><br/>The RITZ Ybor is Tampas most sought-after venue for live music and special events, and serves as the official home and headquarters of Sunset Events.',
-            location: {
-                center: [-82.44289, 27.95995],
-                zoom: 19,
-                pitch: 34,
-                bearing: -49
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -183,6 +164,25 @@ var config = {
                 zoom: 19.42,
                 pitch: 44.50,
                 bearing: 70.40
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'ritz',
+            alignment: 'left',
+            hidden: false,
+            title: 'THE RITZ YBOR',
+            image: './images/ritz-ybor.jpg',
+            description: '<strong><a href="https://theritzybor.com/">The Ritz Ybor</a> <br/>1503 E 7th Ave, Tampa, FL 33605</strong><br/>The RITZ Ybor is Tampas most sought-after venue for live music and special events, and serves as the official home and headquarters of Sunset Events.',
+            location: {
+                center: [-82.44289, 27.95995],
+                zoom: 19,
+                pitch: 34,
+                bearing: -49
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
