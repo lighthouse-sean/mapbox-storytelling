@@ -120,7 +120,7 @@ var config = {
             hidden: false,
             title: 'Grand Central Garage',
             image: './images/garage.jpg',
-            description: '<strong><a href="https://www.facebook.com/FukTheGarage">Grand Central Garage</a><br>2729 Central Ave Saint Petersburg, FL 33713</strong>,br>A dive bar to find St. Petes older crowd in the historic Kenwood area, locals end up here for a mellow good time. Enjoy everything from cold brews to karaoke, this is a no-frills hang out.',
+            description: '<strong><a href="https://www.facebook.com/FukTheGarage">Grand Central Garage</a><br>2729 Central Ave Saint Petersburg, FL 33713</strong><br>A dive bar to find St. Petes older crowd in the historic Kenwood area, locals end up here for a mellow good time. Enjoy everything from cold brews to karaoke, this is a no-frills hang out.',
             location: {
                 center: [-82.67052, 27.77116],
                 zoom: 20,
