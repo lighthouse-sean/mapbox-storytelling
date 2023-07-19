@@ -44,9 +44,9 @@ var config = {
             id: 'floridian-social',
             alignment: 'right',
             hidden: false,
-            title: 'Floridian Social',
+            title: 'Floridian Social Club',
             image: './images/floridian-social.jpg',
-            description: '🎺Art Deco music venue in the heart of St Pete',
+            description: '<strong><a href="https://www.thefloridiansocial.com/">Floridian Social Club</a><br>687 Central Ave N, St. Petersburg, FL 33701</strong><br>🎺Art Deco music venue in the heart of St Pete',
             location: {
                 center: [-82.64337, 27.77147],
                 zoom: 18,
@@ -65,7 +65,7 @@ var config = {
             hidden: false,
             title: 'Enigma',
             image: './images/enigma.jpg',
-            description: 'Lively, gay-friendly lounge with several rooms, a cozy dance floor, drag shows & sidewalk tables.',
+            description: '<strong><a href="https://enigmastpete.com/">Enigma St Pete</a> <br>1110 Central Ave, St. Petersburg, FL 33705</strong><br>Lively, gay-friendly lounge with several rooms, a cozy dance floor, drag shows & sidewalk tables.',
             location: {
                 center: [-82.65023, 27.77107],
                 zoom: 19,
@@ -95,7 +95,7 @@ var config = {
             hidden: false,
             title: 'Cocktail St Pete',
             image: './images/wet-spot.webp',
-            description: 'St Petes newest cocktail experience, Cocktail where you will get stiff drinks, hard liquor and raging good times.',
+            description: '<strong><a href="https://cocktailstpete.com">Cocktail St Pete</a><br>2355 Central Ave, St. Petersburg, FL 33713</strong><br>St Petes newest cocktail experience, Cocktail where you will get stiff drinks, hard liquor and raging good times.',
             location: {
                 center: [-82.66553, 27.77109],
                 zoom: 18.55,
