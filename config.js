@@ -134,6 +134,25 @@ var config = {
             onChapterExit: []
         },
         {
+            id: 'the-salty-nun',
+            alignment: 'right',
+            hidden: false,
+            title: 'The Salty Nun',
+            image: './images/salty-nun.jpg',
+            description: '<strong><a href="https://www.yelp.com/biz/salty-nun-st-petersburg">The Salty Nun</a><br>2501 Central Ave Saint Petersburg, FL 33713</strong><br>🏳️‍🌈 “We have combined the famous breakfast restaurant, Stellas, and your favorite Gulfport local bar, Saltys. Our venue includes a varietal breakfast menu, with highlighted Stella signature menu items, and a local bar with great drinks and live music!',
+            location: {
+                center: [-82.66745, 27.77128],
+                zoom: 20,
+                pitch: 61,
+                bearing: -34.80
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: 'bradleys',
             alignment: 'right',
             hidden: false,
