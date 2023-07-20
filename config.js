@@ -63,7 +63,7 @@ var config = {
             id: 'enigma-st-pete',
             alignment: 'left',
             hidden: false,
-            title: '🏳️‍🌈   Enigma',
+            title: '🏳️‍🌈      Enigma',
             image: './images/enigma.jpg',
             description: '<strong><a href="https://enigmastpete.com/">Enigma St Pete</a> <br>1110 Central Ave, St. Petersburg, FL 33705</strong><br>Lively, gay-friendly lounge with several rooms, a cozy dance floor, drag shows & sidewalk tables.',
             location: {
@@ -93,7 +93,7 @@ var config = {
             id: 'cocktail-st-pete',
             alignment: 'right',
             hidden: false,
-            title: '🏳️‍🌈   Cocktail St Pete',
+            title: '🏳️‍🌈      Cocktail St Pete',
             image: './images/wet-spot.webp',
             description: '<strong><a href="https://cocktailstpete.com">Cocktail St Pete</a><br>2355 Central Ave, St. Petersburg, FL 33713</strong><br>St Petes newest cocktail experience, Cocktail where you will get stiff drinks, hard liquor and raging good times.',
             location: {
@@ -118,7 +118,7 @@ var config = {
             id: 'the-garage',
             alignment: 'left',
             hidden: false,
-            title: '🏳️‍🌈   Grand Central Garage',
+            title: '🏳️‍🌈      Grand Central Garage',
             image: './images/garage.jpg',
             description: '<strong><a href="https://www.facebook.com/FukTheGarage">Grand Central Garage</a><br>2729 Central Ave Saint Petersburg, FL 33713</strong><br>A dive bar to find St. Petes older crowd in the historic Kenwood area, locals end up here for a mellow good time. Enjoy everything from cold brews to karaoke, this is a no-frills hang out.',
             location: {
@@ -137,9 +137,9 @@ var config = {
             id: 'the-salty-nun',
             alignment: 'right',
             hidden: false,
-            title: '🏳️‍🌈   The Salty Nun',
+            title: '🏳️‍🌈      The Salty Nun',
             image: './images/salty-nun.jpg',
-            description: '<strong><a href="https://www.yelp.com/biz/salty-nun-st-petersburg">The Salty Nun</a><br>2501 Central Ave Saint Petersburg, FL 33713</strong><br>🏳️‍🌈  We have combined the famous breakfast restaurant, Stellas, and your favorite Gulfport local bar, Saltys. Our venue includes a varietal breakfast menu, with highlighted Stella signature menu items, and a local bar with great drinks and live music!',
+            description: '<strong><a href="https://www.yelp.com/biz/salty-nun-st-petersburg">The Salty Nun</a><br>2501 Central Ave Saint Petersburg, FL 33713</strong><br>We have combined the famous breakfast restaurant, Stellas, and your favorite Gulfport local bar, Saltys. Our venue includes a varietal breakfast menu, with highlighted Stella signature menu items, and a local bar with great drinks and live music!',
             location: {
                 center: [-82.66745, 27.77128],
                 zoom: 20,
@@ -156,7 +156,7 @@ var config = {
             id: 'bradleys',
             alignment: 'right',
             hidden: false,
-            title: '🏳️‍🌈   Bradleys on 7th',
+            title: '🏳️‍🌈      Bradleys on 7th',
             image: './images/bradleys.jpg',
             description: '<strong><a href="https://bradleyson7th.com/">Bradleys on 7th</a> <br/>1510 E 7th Ave, Tampa, FL 33605</strong><br/>Friendly gay bar with great drag shows, where everyone is welcome with great drinks and a friendly staff!',
             location: {
@@ -175,7 +175,7 @@ var config = {
             id: 'southern',
             alignment: 'left',
             hidden: false,
-            title: '🏳️‍🌈   Southern Nights Tampa',
+            title: '🏳️‍🌈      Southern Nights Tampa',
             image: './images/southern.jpg',
             description: '<strong><a href="https://www.facebook.com/SouthernNightsTampa/">Southern Nights Tampa</a> <br> 1401 E 7th Ave, Tampa, FL, United States, 33605</strong><br>A rambunctious crowd enjoys cocktails, drag queens, go-go dancers, and renowned DJs. Southern Nights is the place to go to if you are looking for a rowdy, fun, dance and drink-filled night.',
             location: {
