@@ -134,6 +134,25 @@ var config = {
             onChapterExit: []
         },
         {
+            id: 'the-garage',
+            alignment: 'right',
+            hidden: false,
+            title: '🏳️‍🌈      GRAND CENTRAL GARAGE',
+            image: './images/garage.jpg',
+            description: '<strong><a href="https://www.facebook.com/FukTheGarage">Grand Central Garage</a><br>2729 Central Ave Saint Petersburg, FL 33713</strong><br>A dive bar to find St. Petes older crowd in the historic Kenwood area, locals end up here for a mellow good time. Enjoy everything from cold brews to karaoke, this is a no-frills hang out.',
+            location: {
+                center: [-82.67052, 27.77116],
+                zoom: 20,
+                pitch: 61,
+                bearing: 24.80
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: 'lucky-star-lounge',
             alignment: 'left',
             hidden: false,
@@ -153,17 +172,17 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'the-garage',
+            id: 'showbar-ybor',
             alignment: 'right',
             hidden: false,
-            title: '🏳️‍🌈      GRAND CENTRAL GARAGE',
-            image: './images/garage.jpg',
-            description: '<strong><a href="https://www.facebook.com/FukTheGarage">Grand Central Garage</a><br>2729 Central Ave Saint Petersburg, FL 33713</strong><br>A dive bar to find St. Petes older crowd in the historic Kenwood area, locals end up here for a mellow good time. Enjoy everything from cold brews to karaoke, this is a no-frills hang out.',
+            title: '🏳️‍🌈      SHOWBAR YBOR',
+            image: './images/showbar-ybor.webp',
+            description: '<strong><a href="https://www.showbarybor.com/">Showbar Ybor</a> <br/>1613 E 7th Ave, Tampa, FL 33605</strong><br/>An 8,000 square foot dueling piano bar with both indoor and outdoor seating space. The concept has debuted a Sunday Drag Brunch event, and will continue to serve as the “Happiest Place on 7th Avenue”.',
             location: {
-                center: [-82.67052, 27.77116],
-                zoom: 20,
-                pitch: 61,
-                bearing: 24.80
+                center: [-82.44258, 27.96037],
+                zoom: 19.42,
+                pitch: 30,
+                bearing: -150.80
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -171,7 +190,6 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
-
         {
             id: 'bradleys',
             alignment: 'right',
