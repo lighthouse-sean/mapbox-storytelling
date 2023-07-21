@@ -70,7 +70,7 @@ var config = {
                 center: [-82.65023, 27.77107],
                 zoom: 19,
                 pitch: 10,
-                bearing: -60
+                bearing: 60
             },
             mapAnimation: 'flyTo',
             rotateAnimation: true,
