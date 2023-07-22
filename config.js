@@ -158,7 +158,7 @@ var config = {
             hidden: false,
             title: '🏳️‍🌈      LUCKY STAR LOUNGE',
             image: './images/lucky-star-lounge.jpg',
-            description: '<strong><a href="https://www.yelp.com/biz/lucky-star-lounge-st-petersburg">The Salty Nun</a><br>2760 Central Avenue, St. Petersburg, FL 33712</strong><br>We have combined the famous breakfast restaurant, Stellas, and your favorite Gulfport local bar, Saltys. Our venue includes a varietal breakfast menu, with highlighted Stella signature menu items, and a local bar with great drinks and live music!',
+            description: '<strong><a href="https://www.yelp.com/biz/lucky-star-lounge-st-petersburg">Lucky Star Lounge</a><br>2760 Central Avenue, St. Petersburg, FL 33712</strong><br>We have combined the famous breakfast restaurant, Stellas, and your favorite Gulfport local bar, Saltys. Our venue includes a varietal breakfast menu, with highlighted Stella signature menu items, and a local bar with great drinks and live music!',
             location: {
                 center: [-82.671054, 27.77077],
                 zoom: 20,
