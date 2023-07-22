@@ -179,10 +179,10 @@ var config = {
             image: './images/showbar-ybor.webp',
             description: '<strong><a href="https://www.showbarybor.com/">Showbar Ybor</a> <br/>1613 E 7th Avenue, Tampa, FL 33605</strong><br/>An 8,000 square foot dueling piano bar with both indoor and outdoor seating space. The concept has debuted a Sunday Drag Brunch event, and will continue to serve as the “Happiest Place on 7th Avenue”.',
             location: {
-                center: [-82.44258, 27.96037],
+                center: [-82.44097, 27.96007],
                 zoom: 19.42,
-                pitch: 30,
-                bearing: -150.80
+                pitch: 45,
+                bearing: 20.80
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
