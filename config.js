@@ -22,7 +22,7 @@ var config = {
             image: './images/logo-horizontal.svg',
             description: 'An interactive guide of all the best places to kiki in Tampa Bay.',
             location: {
-                center: [-82.71247, 27.74352],
+                center: [-82.63901, 27.77097],
                 zoom: 11,
                 pitch: 0.00,
                 bearing: 0.00
