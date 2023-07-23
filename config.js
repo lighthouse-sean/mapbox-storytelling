@@ -230,7 +230,7 @@ var config = {
         },
         {
             id: 'ritz',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
             title: 'THE RITZ YBOR',
             image: './images/ritz-ybor.jpg',
@@ -240,6 +240,25 @@ var config = {
                 zoom: 19,
                 pitch: 34,
                 bearing: -49
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'white-lie',
+            alignment: 'left',
+            hidden: false,
+            title: 'WHITE LIE YBOR',
+            image: './images/white-lie.jpg',
+            description: '<strong><a href="https://www.facebook.com/whitelieybor/">White Lie Ybor</a> <br/>1710 E 7th Avenue<br/>Tampa, FL 33605</strong><br/>The RITZ Ybor is Tampas most sought-after venue for live music and special events, and serves as the official home and headquarters of Sunset Events.',
+            location: {
+                center: [-82.44012, 27.96037],
+                zoom: 19.75,
+                pitch: 54,
+                bearing: -28
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
