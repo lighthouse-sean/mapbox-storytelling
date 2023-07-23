@@ -253,7 +253,7 @@ var config = {
             hidden: false,
             title: '🏳️‍🌈      JOHNSONS TAMPA',
             image: './images/johnsons.jpg',
-            description: '<strong><a href="https://johnsonstampa.com/">Johnsons Tampa</a> <br/>2606 North Armenia Avenue<br/>Tampa, FL, 33607</strong><br/>TThe premier gay strip club in Tampa Bay. Offering a vibrant, inclusive atmosphere, featuring some of the most talented and diverse performers in the industry. The club provides a safe, engaging space for the LGBTQ+ community and allies to enjoy top-tier adult entertainment.',
+            description: '<strong><a href="https://johnsonstampa.com/">Johnsons Tampa</a> <br/>2606 North Armenia Avenue<br/>Tampa, FL, 33607</strong><br/>The premier gay strip club in Tampa Bay. Offering a vibrant, inclusive atmosphere, featuring some of the most talented and diverse performers in the industry. The club provides a safe, engaging space for the LGBTQ+ community and allies to enjoy top-tier adult entertainment.',
             location: {
                 center: [-82.48509, 27.96418],
                 zoom: 20,
@@ -262,6 +262,25 @@ var config = {
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'castle-ybor',
+            alignment: 'left',
+            hidden: false,
+            title: 'CASTLE YBOR',
+            image: './images/castle-ybor.jpg',
+            description: '<strong><a href="http://castleybor.com/">Castle Ybor</a> <br/>004 N 16th St<br/>Tampa, FL 33605</strong><br/>A multilevel bar and dance club with music from new wave to pop & a crowd dressed from Goth to fetish. The Castle is one of Ybors best and most iconic venues, serving as a bar and a nightclub. The population is broad and eclectic, and guests are encouraged to dress up for several themed nights, with an exciting theme each day. The music is equally diverse, ranging from goth and indie to alternative and mainstream. The décor of the Castle is dungeon-like, gloomy, and industrial. It offers various rooms and is highly welcoming to LGBT people.',
+            location: {
+                center: [-82.44176, 27.96186],
+                zoom: 20,
+                pitch: -28,
+                bearing: 54
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
