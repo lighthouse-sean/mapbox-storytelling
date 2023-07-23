@@ -45,7 +45,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'FLORIDIAN SOCIAL CLUB',
-            image: './images/floridian-social.jpg',
+            image: './images/floridian-social.webp',
             description: '<strong><a href="https://www.thefloridiansocial.com/">Floridian Social Club</a><br>687 Central Avenue N<br/>St. Petersburg, FL 33701</strong><br>🎺Art Deco music venue in the heart of St. Pete',
             location: {
                 center: [-82.64337, 27.77147],
@@ -64,7 +64,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '🏳️‍🌈      ENIGMA',
-            image: './images/enigma.jpg',
+            image: './images/enigma.webp',
             description: '<strong><a href="https://enigmastpete.com/">Enigma St. Pete</a> <br>1110 Central Avenue<br/>St. Petersburg, FL 33705</strong><br>Lively, gay-friendly lounge with several rooms, a cozy dance floor, drag shows & sidewalk tables.',
             location: {
                 center: [-82.65023, 27.77107],
@@ -119,7 +119,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '🏳️‍🌈      THE SALTY NUN',
-            image: './images/salty-nun.jpg',
+            image: './images/salty-nun.webp',
             description: '<strong><a href="https://www.yelp.com/biz/salty-nun-st-petersburg">The Salty Nun</a><br>2501 Central Avenue<br/>St. Petersburg, FL 33713</strong><br>We have combined the famous breakfast restaurant, Stellas, and your favorite Gulfport local bar, Saltys. Our venue includes a varietal breakfast menu, with highlighted Stella signature menu items, and a local bar with great drinks and live music!',
             location: {
                 center: [-82.66745, 27.77128],
@@ -138,7 +138,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '🏳️‍🌈      GRAND CENTRAL GARAGE',
-            image: './images/garage.jpg',
+            image: './images/garage.webp',
             description: '<strong><a href="https://www.facebook.com/FukTheGarage">Grand Central Garage</a><br>2729 Central Avenue<br/>St. Petersburg, FL 33713</strong><br>A dive bar to find St. Petes older crowd in the historic Kenwood area, locals end up here for a mellow good time. Enjoy everything from cold brews to karaoke, this is a no-frills hang out.',
             location: {
                 center: [-82.67052, 27.77116],
@@ -157,7 +157,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '🏳️‍🌈      LUCKY STAR LOUNGE',
-            image: './images/lucky-star-lounge.jpg',
+            image: './images/lucky-star-lounge.webp',
             description: '<strong><a href="https://www.yelp.com/biz/lucky-star-lounge-st-petersburg">Lucky Star Lounge</a><br>2760 Central Avenue<br/>St. Petersburg, FL 33712</strong><br>We have combined the famous breakfast restaurant, Stellas, and your favorite Gulfport local bar, Saltys. Our venue includes a varietal breakfast menu, with highlighted Stella signature menu items, and a local bar with great drinks and live music!',
             location: {
                 center: [-82.671054, 27.77077],
@@ -195,7 +195,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '🏳️‍🌈      BRADLEYS ON 7th',
-            image: './images/bradleys.jpg',
+            image: './images/bradleys.webp',
             description: '<strong><a href="https://bradleyson7th.com/">Bradleys on 7th</a> <br/>1510 E 7th Avenue<br/>Tampa, FL 33605</strong><br/>Friendly gay bar with great drag shows, where everyone is welcome with great drinks and a friendly staff!',
             location: {
                 center: [-82.44258, 27.96037],
@@ -214,7 +214,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '🏳️‍🌈      SOUTHERN NIGHTS TAMPA',
-            image: './images/southern.jpg',
+            image: './images/southern.webp',
             description: '<strong><a href="https://www.facebook.com/SouthernNightsTampa/">Southern Nights Tampa</a> <br> 1401 E 7th Avenue<br/>Tampa, FL, United States, 33605</strong><br>A rambunctious crowd enjoys cocktails, drag queens, go-go dancers, and renowned DJs. Southern Nights is the place to go to if you are looking for a rowdy, fun, dance and drink-filled night.',
             location: {
                 center: [-82.44403, 27.96016],
@@ -233,7 +233,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'THE RITZ YBOR',
-            image: './images/ritz-ybor.jpg',
+            image: './images/ritz-ybor.webp',
             description: '<strong><a href="https://theritzybor.com/">The Ritz Ybor</a> <br/>1503 E 7th Avenue<br/>Tampa, FL 33605</strong><br/>The RITZ Ybor is Tampas most sought-after venue for live music and special events, and serves as the official home and headquarters of Sunset Events.',
             location: {
                 center: [-82.44289, 27.95995],
@@ -252,7 +252,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'WHITE LIE YBOR',
-            image: './images/white-lie.jpeg',
+            image: './images/white-lie.webp',
             description: '<strong><a href="https://www.facebook.com/whitelieybor/">White Lie Ybor</a> <br/>1710 E 7th Avenue<br/>Tampa, FL 33605</strong><br/>The RITZ Ybor is Tampas most sought-after venue for live music and special events, and serves as the official home and headquarters of Sunset Events.',
             location: {
                 center: [-82.44012, 27.96037],
@@ -271,7 +271,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '🏳️‍🌈      JOHNSONS TAMPA',
-            image: './images/johnsons.jpg',
+            image: './images/johnsons.webp',
             description: '<strong><a href="https://johnsonstampa.com/">Johnsons Tampa</a> <br/>2606 North Armenia Avenue<br/>Tampa, FL, 33607</strong><br/>The premier gay strip club in Tampa Bay. Offering a vibrant, inclusive atmosphere, featuring some of the most talented and diverse performers in the industry. The club provides a safe, engaging space for the LGBTQ+ community and allies to enjoy top-tier adult entertainment.',
             location: {
                 center: [-82.48509, 27.96418],
@@ -290,7 +290,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'CASTLE YBOR',
-            image: './images/castle-ybor.png',
+            image: './images/castle-ybor.webp',
             description: '<strong><a href="http://castleybor.com/">Castle Ybor</a> <br/>004 N 16th St<br/>Tampa, FL 33605</strong><br/>A multilevel bar and dance club with music from new wave to pop & a crowd dressed from Goth to fetish. The Castle is one of Ybors best and most iconic venues, serving as a bar and a nightclub. The population is broad and eclectic, and guests are encouraged to dress up for several themed nights, with an exciting theme each day. The music is equally diverse, ranging from goth and indie to alternative and mainstream. The décor of the Castle is dungeon-like, gloomy, and industrial. It offers various rooms and is highly welcoming to LGBT people.',
             location: {
                 center: [-82.44176, 27.96186],
