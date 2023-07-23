@@ -46,7 +46,7 @@ var config = {
             hidden: false,
             title: 'FLORIDIAN SOCIAL CLUB',
             image: './images/floridian-social.jpg',
-            description: '<strong><a href="https://www.thefloridiansocial.com/">Floridian Social Club</a><br>687 Central Avenue N<br/>St. Petersburg, FL 33701</strong><br>🎺Art Deco music venue in the heart of St Pete',
+            description: '<strong><a href="https://www.thefloridiansocial.com/">Floridian Social Club</a><br>687 Central Avenue N<br/>St. Petersburg, FL 33701</strong><br>🎺Art Deco music venue in the heart of St. Pete',
             location: {
                 center: [-82.64337, 27.77147],
                 zoom: 18,
@@ -65,7 +65,7 @@ var config = {
             hidden: false,
             title: '🏳️‍🌈      ENIGMA',
             image: './images/enigma.jpg',
-            description: '<strong><a href="https://enigmastpete.com/">Enigma St Pete</a> <br>1110 Central Avenue<br/>St. Petersburg, FL 33705</strong><br>Lively, gay-friendly lounge with several rooms, a cozy dance floor, drag shows & sidewalk tables.',
+            description: '<strong><a href="https://enigmastpete.com/">Enigma St. Pete</a> <br>1110 Central Avenue<br/>St. Petersburg, FL 33705</strong><br>Lively, gay-friendly lounge with several rooms, a cozy dance floor, drag shows & sidewalk tables.',
             location: {
                 center: [-82.65023, 27.77107],
                 zoom: 19,
@@ -95,7 +95,7 @@ var config = {
             hidden: false,
             title: '🏳️‍🌈      COCKTAIL ST PETE',
             image: './images/wet-spot.webp',
-            description: '<strong><a href="https://cocktailstpete.com">Cocktail St Pete</a><br>2355 Central Avenue<br/>St. Petersburg, FL 33713</strong><br>St Petes newest cocktail experience, Cocktail where you will get stiff drinks, hard liquor and raging good times.',
+            description: '<strong><a href="https://cocktailstpete.com">Cocktail St. Pete</a><br>2355 Central Avenue<br/>St. Petersburg, FL 33713</strong><br>St. Petes newest cocktail experience, Cocktail where you will get stiff drinks, hard liquor and raging good times.',
             location: {
                 center: [-82.66553, 27.77109],
                 zoom: 18.55,
@@ -120,7 +120,7 @@ var config = {
             hidden: false,
             title: '🏳️‍🌈      THE SALTY NUN',
             image: './images/salty-nun.jpg',
-            description: '<strong><a href="https://www.yelp.com/biz/salty-nun-st-petersburg">The Salty Nun</a><br>2501 Central Avenue<br/>Saint Petersburg, FL 33713</strong><br>We have combined the famous breakfast restaurant, Stellas, and your favorite Gulfport local bar, Saltys. Our venue includes a varietal breakfast menu, with highlighted Stella signature menu items, and a local bar with great drinks and live music!',
+            description: '<strong><a href="https://www.yelp.com/biz/salty-nun-st-petersburg">The Salty Nun</a><br>2501 Central Avenue<br/>St. Petersburg, FL 33713</strong><br>We have combined the famous breakfast restaurant, Stellas, and your favorite Gulfport local bar, Saltys. Our venue includes a varietal breakfast menu, with highlighted Stella signature menu items, and a local bar with great drinks and live music!',
             location: {
                 center: [-82.66745, 27.77128],
                 zoom: 19.5,
@@ -139,7 +139,7 @@ var config = {
             hidden: false,
             title: '🏳️‍🌈      GRAND CENTRAL GARAGE',
             image: './images/garage.jpg',
-            description: '<strong><a href="https://www.facebook.com/FukTheGarage">Grand Central Garage</a><br>2729 Central Avenue<br/>Saint Petersburg, FL 33713</strong><br>A dive bar to find St. Petes older crowd in the historic Kenwood area, locals end up here for a mellow good time. Enjoy everything from cold brews to karaoke, this is a no-frills hang out.',
+            description: '<strong><a href="https://www.facebook.com/FukTheGarage">Grand Central Garage</a><br>2729 Central Avenue<br/>St. Petersburg, FL 33713</strong><br>A dive bar to find St. Petes older crowd in the historic Kenwood area, locals end up here for a mellow good time. Enjoy everything from cold brews to karaoke, this is a no-frills hang out.',
             location: {
                 center: [-82.67052, 27.77116],
                 zoom: 20,
