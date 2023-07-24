@@ -253,7 +253,7 @@ var config = {
             hidden: false,
             title: 'WHITE LIE YBOR',
             image: './images/white-lie.webp',
-            description: '<strong><a href="https://www.facebook.com/whitelieybor/">White Lie Ybor</a> <br/>1710 E 7th Avenue<br/>Tampa, FL 33605</strong><br/>The RITZ Ybor is Tampas most sought-after venue for live music and special events, and serves as the official home and headquarters of Sunset Events.',
+            description: '<strong><a href="https://www.facebook.com/whitelieybor/">White Lie Ybor</a> <br/>1710 E 7th Avenue<br/>Tampa, FL 33605</strong><br/>Other than holding a few emo nights, hip-hop acts and DJs are generally the main live music showcases at this fully-stocked bar and grill. Local art graces the walls, as well as a specific spot to write down your… white lies on a sticky note that goes on the wall.',
             location: {
                 center: [-82.44012, 27.96037],
                 zoom: 19.75,
@@ -291,7 +291,7 @@ var config = {
             hidden: false,
             title: 'CASTLE YBOR',
             image: './images/castle-ybor.webp',
-            description: '<strong><a href="http://castleybor.com/">Castle Ybor</a> <br/>004 N 16th St<br/>Tampa, FL 33605</strong><br/>A multilevel bar and dance club with music from new wave to pop & a crowd dressed from Goth to fetish. The Castle is one of Ybors best and most iconic venues, serving as a bar and a nightclub. The population is broad and eclectic, and guests are encouraged to dress up for several themed nights, with an exciting theme each day. The music is equally diverse, ranging from goth and indie to alternative and mainstream. The décor of the Castle is dungeon-like, gloomy, and industrial. It offers various rooms and is highly welcoming to LGBT people.',
+            description: '<strong><a href="http://castleybor.com/">Castle Ybor</a> <br/>2004 N 16th St<br/>Tampa, FL 33605</strong><br/>A multilevel bar and dance club with music from new wave to pop & a crowd dressed from Goth to fetish. The Castle is one of Ybors best and most iconic venues, serving as a bar and a nightclub. The population is broad and eclectic, and guests are encouraged to dress up for several themed nights, with an exciting theme each day. The music is equally diverse, ranging from goth and indie to alternative and mainstream. The décor of the Castle is dungeon-like, gloomy, and industrial. It offers various rooms and is highly welcoming to LGBT people.',
             location: {
                 center: [-82.44176, 27.96186],
                 zoom: 20,
