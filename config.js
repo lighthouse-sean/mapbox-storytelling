@@ -72,7 +72,7 @@ var config = {
                 zoom: 19,
                 pitch: 10,
                 bearing: 60,
-                curve: 2
+                curve: 1
             },
             mapAnimation: 'flyTo',
             rotateAnimation: true,
@@ -102,7 +102,8 @@ var config = {
                 center: [-82.66553, 27.77109],
                 zoom: 18.55,
                 pitch: 54.50,
-                bearing: -27.20
+                bearing: -27.20,
+                curve: 1
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
@@ -127,7 +128,8 @@ var config = {
                 center: [-82.66745, 27.77128],
                 zoom: 19.5,
                 pitch: 61,
-                bearing: -34.80
+                bearing: -34.80,
+                curve: 1
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -146,7 +148,8 @@ var config = {
                 center: [-82.67052, 27.77116],
                 zoom: 20,
                 pitch: 61,
-                bearing: 24.80
+                bearing: 24.80,
+                curve: 1
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -165,7 +168,8 @@ var config = {
                 center: [-82.671054, 27.77077],
                 zoom: 20,
                 pitch: 38,
-                bearing: 65.80
+                bearing: 65.80,
+                curve: 1
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -203,7 +207,8 @@ var config = {
                 center: [-82.44258, 27.96037],
                 zoom: 19.42,
                 pitch: 22.50,
-                bearing: 128.80
+                bearing: 128.80,
+                curve: 1
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -222,7 +227,8 @@ var config = {
                 center: [-82.44403, 27.96016],
                 zoom: 19.42,
                 pitch: 44.50,
-                bearing: 70.40
+                bearing: 70.40,
+                curve: 1
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -241,7 +247,8 @@ var config = {
                 center: [-82.44289, 27.95995],
                 zoom: 19,
                 pitch: 34,
-                bearing: -49
+                bearing: -49,
+                curve: 1
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -260,7 +267,8 @@ var config = {
                 center: [-82.44012, 27.96037],
                 zoom: 19.75,
                 pitch: 54,
-                bearing: -28
+                bearing: -28,
+                curve: 1
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -279,7 +287,8 @@ var config = {
                 center: [-82.48509, 27.96418],
                 zoom: 20,
                 pitch: 48.63,
-                bearing: -29.60
+                bearing: -29.60,
+                curve: 1
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -298,7 +307,8 @@ var config = {
                 center: [-82.44176, 27.96186],
                 zoom: 20,
                 pitch: -28,
-                bearing: 54
+                bearing: 54,
+                curve: 1
             },
             mapAnimation: 'flyTo',
             rotateAnimation: true,
