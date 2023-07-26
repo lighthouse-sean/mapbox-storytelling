@@ -51,7 +51,8 @@ var config = {
                 center: [-82.64337, 27.77147],
                 zoom: 18,
                 pitch: 0,
-                bearing: -20
+                bearing: -20,
+                curve: 1
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -70,7 +71,8 @@ var config = {
                 center: [-82.65023, 27.77107],
                 zoom: 19,
                 pitch: 10,
-                bearing: 60
+                bearing: 60,
+                curve: 2
             },
             mapAnimation: 'flyTo',
             rotateAnimation: true,
