@@ -69,7 +69,7 @@ var config = {
             description: '<strong><a href="https://enigmastpete.com/">Enigma St. Pete</a> <br>1110 Central Avenue<br/>St. Petersburg, FL 33705</strong><br>Lively, gay-friendly lounge with several rooms, a cozy dance floor, drag shows & sidewalk tables.',
             location: {
                 center: [-82.65023, 27.77107],
-                zoom: 19,
+                zoom: 18.5,
                 pitch: 10,
                 bearing: 60,
                 curve: 1
@@ -126,7 +126,7 @@ var config = {
             description: '<strong><a href="https://www.yelp.com/biz/salty-nun-st-petersburg">The Salty Nun</a><br>2501 Central Avenue<br/>St. Petersburg, FL 33713</strong><br>We have combined the famous breakfast restaurant, Stellas, and your favorite Gulfport local bar, Saltys. Our venue includes a varietal breakfast menu, with highlighted Stella signature menu items, and a local bar with great drinks and live music!',
             location: {
                 center: [-82.66745, 27.77128],
-                zoom: 19.5,
+                zoom: 18.5,
                 pitch: 61,
                 bearing: -34.80,
                 curve: 1
@@ -146,7 +146,7 @@ var config = {
             description: '<strong><a href="https://www.facebook.com/FukTheGarage">Grand Central Garage</a><br>2729 Central Avenue<br/>St. Petersburg, FL 33713</strong><br>A dive bar to find St. Petes older crowd in the historic Kenwood area, locals end up here for a mellow good time. Enjoy everything from cold brews to karaoke, this is a no-frills hang out.',
             location: {
                 center: [-82.67052, 27.77116],
-                zoom: 20,
+                zoom: 19,
                 pitch: 61,
                 bearing: 24.80,
                 curve: 1
@@ -166,7 +166,7 @@ var config = {
             description: '<strong><a href="https://www.yelp.com/biz/lucky-star-lounge-st-petersburg">Lucky Star Lounge</a><br>2760 Central Avenue<br/>St. Petersburg, FL 33712</strong><br>We have combined the famous breakfast restaurant, Stellas, and your favorite Gulfport local bar, Saltys. Our venue includes a varietal breakfast menu, with highlighted Stella signature menu items, and a local bar with great drinks and live music!',
             location: {
                 center: [-82.671054, 27.77077],
-                zoom: 20,
+                zoom: 19.5,
                 pitch: 38,
                 bearing: 65.80,
                 curve: 1
@@ -177,25 +177,25 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
-//      {
-//           id: 'showbar-ybor',
-//           alignment: 'right',
-//            hidden: false,
-//            title: '🏳️‍🌈      SHOWBAR YBOR',
-//            image: './images/showbar-ybor.webp',
-//            description: '<strong><a href="https://www.showbarybor.com/">Showbar Ybor</a> <br/>1613 E 7th Avenue<br/>Tampa, FL 33605</strong><br/>An 8,000 square foot dueling piano bar with both indoor and outdoor seating space. The concept has debuted a Sunday Drag Brunch event, and will continue to serve as the “Happiest Place on 7th Avenue”.',
-//            location: {
-//                center: [-82.44097, 27.96007],
-//                zoom: 19.42,
-//                pitch: 45,
-//                bearing: 20.80
-//            },
-//            mapAnimation: 'flyTo',
-//            rotateAnimation: false,
-//            callback: '',
-//            onChapterEnter: [],
-//            onChapterExit: []
-//        },
+        {
+           id: 'showbar-ybor',
+           alignment: 'right',
+            hidden: false,
+            title: '🏳️‍🌈      SHOWBAR YBOR',
+            image: './images/showbar-ybor.webp',
+            description: '<strong><a href="https://www.showbarybor.com/">Showbar Ybor</a> <br/>1613 E 7th Avenue<br/>Tampa, FL 33605</strong><br/>An 8,000 square foot dueling piano bar with both indoor and outdoor seating space. The concept has debuted a Sunday Drag Brunch event, and will continue to serve as the “Happiest Place on 7th Avenue”.',
+            location: {
+                center: [-82.44097, 27.96007],
+                zoom: 19.42,
+                pitch: 45,
+                bearing: 20.80
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
         {
             id: 'bradleys',
             alignment: 'right',
@@ -256,26 +256,26 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
-        {
-            id: 'white-lie',
-            alignment: 'left',
-            hidden: false,
-            title: 'WHITE LIE YBOR',
-            image: './images/white-lie.webp',
-            description: '<strong><a href="https://www.facebook.com/whitelieybor/">White Lie Ybor</a> <br/>1710 E 7th Avenue<br/>Tampa, FL 33605</strong><br/>Other than holding a few emo nights, hip-hop acts and DJs are generally the main live music showcases at this fully-stocked bar and grill. Local art graces the walls, as well as a specific spot to write down your… white lies on a sticky note that goes on the wall.',
-            location: {
-                center: [-82.44012, 27.96037],
-                zoom: 19.75,
-                pitch: 54,
-                bearing: -28,
-                curve: 1
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
+//        {
+//            id: 'white-lie',
+//            alignment: 'left',
+//            hidden: false,
+//            title: 'WHITE LIE YBOR',
+//            image: './images/white-lie.webp',
+//            description: '<strong><a href="https://www.facebook.com/whitelieybor/">White Lie Ybor</a> <br/>1710 E 7th Avenue<br/>Tampa, FL 33605</strong><br/>Other than holding a few emo nights, hip-hop acts and DJs are generally the main live music showcases at this fully-stocked bar and grill. Local art graces the walls, as well as a specific spot to write down your… white lies on a sticky note that goes on the wall.',
+//            location: {
+//                center: [-82.44012, 27.96037],
+//                zoom: 19.75,
+//                pitch: 54,
+//                bearing: -28,
+//                curve: 1
+//            },
+//            mapAnimation: 'flyTo',
+//            rotateAnimation: false,
+//            callback: '',
+//            onChapterEnter: [],
+//            onChapterExit: []
+//        },
         {
             id: 'johnsons',
             alignment: 'right',
